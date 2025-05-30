@@ -20,7 +20,7 @@ Alguns dos projetos que desenvolvi estão disponíveis em formato de vídeo no m
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧰 Linguagens e Ferramentas
 
 <img 
     align="left" 
