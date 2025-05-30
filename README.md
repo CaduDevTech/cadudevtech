@@ -165,17 +165,13 @@ Alguns dos projetos que desenvolvi estão disponíveis em formato de vídeo no m
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Eduardo1679&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Eduardo1679&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
-  
-<br/>
-<br/>
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo1679&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo1679&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count-0" 
   />
-
 </p>
